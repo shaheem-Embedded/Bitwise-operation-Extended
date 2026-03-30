@@ -12,5 +12,7 @@ Bitwise Operations-Extended Applications for Embedded based platform
 > Bitwise Operations(SET,CLEAR,TOGGLE) using Macro.
 > Decode Status Rgister (8bit).
 > Decode Status Rgister Using Macro (8bit).
+> Bit spreading ,8 Bit register.
+> Macro based Register configuration enabler.
 
  
