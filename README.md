@@ -14,5 +14,7 @@ Bitwise Operations-Extended Applications for Embedded based platform
 > Decode Status Rgister Using Macro (8bit).
 > Bit spreading ,8 Bit register.
 > Macro based Register configuration enabler.
+> Extract Nibbles from an 8Bit register.
+> Set Multiple bits in an 8 bit register.
 
  
