@@ -16,5 +16,9 @@ Bitwise Operations-Extended Applications for Embedded based platform
 > Macro based Register configuration enabler.
 > Extract Nibbles from an 8Bit register.
 > Set Multiple bits in an 8 bit register.
+> Extract Specific Bitfield from 32 bit  Register.
+> Clear Specific Bitfield from 32 bit  Register.
+> Replace Specific Bitfield from 32 bit  Register.
+> Extract Even Bits from 32 Bit register and Compression.
 
  
