@@ -23,5 +23,13 @@ Bitwise Operations-Extended Applications for Embedded based platform
 > Data pack construction (4byte-Big endian) for transmission.
 > Data pack construction (Multiple bits at Multiple positions) in 16 bit register.
 > Extract,Verify,Modify and Update Specific Bits in 32 bit register.
+> Count the number of set Bits in an integer.
+> Rotate 8 bit Left.(Roll over without loosing any data)
+> Detect Circular pattern and find out if Data matches the target -32 bit register.
+> Rotate Right 32 bit right register.
+> Count the No of Set bits in 8 bit register.
+> Check if Number is Power of 2.
+> Bit reversal of 8 bit register.
+> 
 
  
